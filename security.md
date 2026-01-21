@@ -94,9 +94,6 @@ If you discover a security issue **in this deployment guidance**:
 
 
 
-You can contact: anishjawalkar2004@gmail.com
-
-
 
 
 ## Final note
